@@ -1,6 +1,16 @@
 # P7
 
 
+Backend
+
+cd backend puis npm install puis node server.js
+
+
+frontend
+
+cd frontend puis npm install puis npm run serve
+
+
 Configuration de la base de données
 
 -- 1: Créer une nouvelle base
