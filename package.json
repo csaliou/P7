@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Helene-mb/OC-P7-SocialNetwork.git"
+    "url": "https://github.com/csaliou/P7"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Helene-mb/OC-P7-SocialNetwork/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Helene-mb/OC-P7-SocialNetwork#readme",
+  "homepage": "",
   "dependencies": {}
 }
